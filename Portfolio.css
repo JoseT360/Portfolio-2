@@ -49,7 +49,16 @@ h4{
     border-radius: 50%;
     background-color: #f2f2f2;
     margin-top: 1%;
-    margin-right: 5%;
-    margin-left: 15%;
+    margin-left: 25%;
+    float: left;
+}
+
+
+.elements{
+    margin-left: 30%;
+    float: left;
+}
+
+.hi{
     float: left;
 }
